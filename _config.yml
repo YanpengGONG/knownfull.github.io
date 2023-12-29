@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yanpeng GONG / Site Title"
+title                    : "Yanpeng GONG / Professor (Associate)"
 title_separator          : "-"
 name                     : &name "Yanpeng GONG"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yanpeng Gong"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Yanpeng is currently employed in the Department of Mechanics at Beijing University of Technology, where he engages in research focused on computational mechanics"
+  location         : "Germany"
+  employer         : "Beijing University of Technology"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wmkLERIAAAAJ&hl=zh-CN"
-  email            :
+  email            : "yanpeng.gong@bjut.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Yanpeng-Gong"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "knownfull"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3177-2826"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
