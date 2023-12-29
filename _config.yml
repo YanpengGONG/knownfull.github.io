@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yanpeng Gong"
-  avatar           : "bio-photo-gong.jpg"
+  avatar           : "bio-photo-gong2.jpg"
   bio              : "Yanpeng is currently employed in the Department of Mechanics at Beijing University of Technology, where he engages in research focused on computational mechanics."
   location         : "Germany"
   employer         : "Beijing University of Technology"
@@ -103,7 +103,7 @@ author:
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3177-2826"
+  orcid            : "https://orcid.org/0000-0002-3177-2826"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
