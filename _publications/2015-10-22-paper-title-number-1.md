@@ -8,7 +8,7 @@ venue: 'Engineering Analysis with Boundary Elements'
 paperurl: 'http://knownfull.github.io/files/201510EABE.pdf'
 citation: ''
 ---
+Recommended citation: Yaoming Zhang, **Yanpeng Gong**\*, Xiaowei Gao. Calculation of 2D nearly singular integrals over high-order geometry elements using the sinh transformation. Engineering Analysis with Boundary Elements, 60, 2015, 144-153.
 
 [Download paper here](http://knownfull.github.io/files/201510EABE.pdf)
 
-Recommended citation: Yaoming Zhang, **Yanpeng Gong**\*, Xiaowei Gao. Calculation of 2D nearly singular integrals over high-order geometry elements using the sinh transformation. Engineering Analysis with Boundary Elements, 60, 2015, 144-153.
