@@ -1,12 +1,12 @@
 ---
-title: "An Automatic Finite Element Method-Boundary Element Method Coupling Method for Elastic–Plastic Problems of Multiscale Structures in Electronic Packaging"
+title: "Local knot method for solving inverse Cauchy problems of Helmholtz equations on complicated two- and three-dimensional domains"
 collection: publications
-permalink: /publication/2023-06-01-paper-title-number-17
+permalink: /publication/2022-06-22-paper-title-number-18
 excerpt: ''
-date: 2023-06-01
-venue: 'Journal of Electronic Packaging'
+date: 2022-06-22
+venue: 'International Journal for Numerical Methods in Engineering'
 paperurl: ''
-citation: 'Fei Qin, Qi He, <u> Yanpeng Gong* </u>, Chuantao Hou, Hao Cheng, Tong An, Yanwei Dai, Pei Chen. An Automatic Finite Element Method-Boundary Element Method Coupling Method for Elastic–Plastic Problems of Multiscale Structures in Electronic Packaging, Journal of Electronic Packaging, 145(2), 2022, 021003.'
+citation: 'Fajie Wang*, Zengtao Chen, <u> Yanpeng Gong* </u>. Local knot method for solving inverse Cauchy problems of Helmholtz equations on complicated two- and three-dimensional domains, International Journal for Numerical Methods in Engineering, 123(20), 2022, 4877-4892.'
 ---
 
-[Download paper here](http://knownfull.github.io/files/202306JEP.pdf)
+[Download paper here](http://knownfull.github.io/files/202306IJNME.pdf)
