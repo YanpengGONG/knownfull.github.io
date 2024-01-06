@@ -1,13 +1,13 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /Supervision/
+title: "Supervision"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /Supervision.html
 ---
 
-## Locations of key files/directories
+## Supervision students
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
