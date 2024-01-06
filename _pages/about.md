@@ -14,8 +14,12 @@ In 2022, he was awarded Humboldt Research Fellowship for Postdocs with the host 
 **Research interests**
 
  His current research interests include 
- - computational mechanics, 
- - high performance computing, 
- - multiscale simulation, 
- - model reduction techniques with special attention to semiconductor and 
- - electronic packaging structures.
+ - boundary elements method
+ - isogeometric analysis
+ - high performance computing
+ - multiscale methods for the electromechanical coupling
+ - interface fracture
+ - flexoelectric effect of materials at different scales
+ - modelling and design of metamaterials and nanostructures
+ - model reduction techniques with special attention to semiconductor structures
+ - mechanical behavior of the materials and structures in electronic packaging
