@@ -11,7 +11,7 @@ Yanpeng Gong joined the Institute of Electronics Packaging Technology and Reliab
 
 In 2022, he was awarded Humboldt Research Fellowship for Postdocs with the host Prof. Xiaoying Zhuang. Between 2023-2025, he is at the Institute of Photonics of Leibniz University Hannover and will conduct his research on numerical methods for the interface fracture in flexoelectric nanostructures.
 
-**Research interests**
+# Research interests
 
  His current research interests include 
  - boundary elements method
