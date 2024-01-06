@@ -7,7 +7,7 @@ redirect_from:
   - /Supervision.html
 ---
 
-## Supervision students
+## Graduate student
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
