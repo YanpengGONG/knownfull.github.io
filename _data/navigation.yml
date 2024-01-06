@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Overview"
+    url: /about.html
+
   - title: "Publications"
     url: /publications/
 

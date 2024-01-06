@@ -1,14 +1,20 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Biography"
+excerpt: "Overview"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Yanpeng Gong joined the Institute of Electronics Packaging Technology and Reliability (IEPTR) of Beijing University of Technology in 2022, as an associate Professor. Before this, he was a lecturer in IEPTR for three years (2019-2022). In 2019, he graduated in Mechanics with a Ph.D. from Beijing Institute of Technology under the guidance of Professor Chunying Dong. His thesis concentrated on applications of the isogeometric boundary element methods (IGABEM) to heat transfer problems, inclusion problmes and coatings. 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+In 2017-2018, as an exchanging visiting Ph.D. student, he was at the School of Engineering and Computing of Durham University under the support of Professor Jon Trevelyan on isogeometric boundary element methods with applications to coatings.  
+
+In 2022, he was awarded Humboldt Research Fellowship for Postdocs with the host Prof. Xiaoying Zhuang. Between 2023-2025, he is at the Institute of Photonics of Leibniz University Hannover and will conduct his research on numerical methods for the interface fracture in flexoelectric nanostructures.
+
+
+Yanpeng received the B.S. degree in applied mathematics from Linyi University, Shandong, China in 2012, the M.S. degree in computational mathematics from Shandong University of Technology, Shandong, China, in 2015, and the Ph.D. degree in computational mechanics . He is currently a lecture with Institute of Electronics Packaging Technology and Reliability, Beijing University of Technology. His current research interests include computational mechanics, high performance computing, multiscale simulation, model reduction techniques with special attention to semiconductor and electronic packaging structures.
 
 A data-driven personal website
 ======
