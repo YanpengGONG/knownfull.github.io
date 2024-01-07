@@ -1,10 +1,11 @@
 ---
-layout: archive
-title: "teaching"
 permalink: /teaching/
+title: "teaching"
+excerpt: "This is a page not in th emain menu"
 author_profile: true
-redirect_from:
-  - /teaching
+redirect_from: 
+  - "/teaching/"
+  - "/teaching.html"
 ---
 
   You can also find my articles on <a href="https://scholar.google.com/citations?user=wmkLERIAAAAJ&hl=zh-CN">my Google Scholar profile</a>.
