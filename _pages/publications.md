@@ -12,6 +12,9 @@ redirect_from:
 
 {% include base_path %}
 
+## Book 
+董春迎, 公颜鹏, 孙芳玲. 等几何边界元法. 科学出版社, 2023年5月.
+
 ## Journal Article
 
 * Qin F., He Q., **Gong Y.**\*, Hou C., Cheng H., An T., Dai Y., Chen P. (2023). An Automatic Finite Element Method-Boundary Element Method Coupling Method for Elastic–Plastic Problems of Multiscale Structures in Electronic Packaging, Journal of Electronic Packaging,145(2), 021003.
