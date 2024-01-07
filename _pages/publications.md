@@ -12,15 +12,16 @@ redirect_from:
 
 {% include base_path %}
 
-## Book 
+## Books 
 
 * The isogeometric boundary element method. 
-(Dong C., **Y. Gong**, F. Sun.)
-Science Press, 
-May 2023. 241 pages
+(C. Dong, **Y. Gong**, F. Sun)
+Science Press
+May 2023, 241 Pages
+ISBN 978-7-03-074292-6 
 (in Chinese: 董春迎, 公颜鹏, 孙芳玲. 等几何边界元法. 科学出版社, 2023年5月.)
 
-## Journal Article
+## Journal Articles
 
 * Qin F., He Q., **Gong Y.**\*, Hou C., Cheng H., An T., Dai Y., Chen P. (2023). An Automatic Finite Element Method-Boundary Element Method Coupling Method for Elastic–Plastic Problems of Multiscale Structures in Electronic Packaging, Journal of Electronic Packaging,145(2), 021003.
 
@@ -125,7 +126,7 @@ May 2023. 241 pages
 * Li X., Zhang Y.\*, **Gong Y.**, Su Y., Gao X. (2015). Use of the sinh transformation for evaluating 2D nearly singular integrals in 3D BEM, Acta Mechanica, 226, 2873-2885.
 
 
-## conference paper
+## Conference papers
 
 * **Gong Y.**, Hattori G., Trevelyan J., Dong C. (2018). A comparison of nearly singular integrals evaluation method for isogeometric boundary element method (IGABEM), 6th European Conference on Computational Mechanics (ECCM 6) & 7th European Conference on Computational Fluid Dynamics (ECFD 7), 11-15 June 2018, Glasgow, UK.
 
