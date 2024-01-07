@@ -14,11 +14,11 @@ redirect_from:
 
 ## Books 
 
-* The isogeometric boundary element method. 
-(C. Dong, **Y. Gong**, F. Sun)
-Science Press
-May 2023, 241 Pages
-ISBN 978-7-03-074292-6 
+* The isogeometric boundary element method. <br>
+(C. Dong, **Y. Gong**, F. Sun)<br>
+Science Press<br>
+May 2023, 241 Pages<br>
+ISBN 978-7-03-074292-6 <br>
 (in Chinese: 董春迎, 公颜鹏, 孙芳玲. 等几何边界元法. 科学出版社, 2023年5月.)
 
 ## Journal Articles
