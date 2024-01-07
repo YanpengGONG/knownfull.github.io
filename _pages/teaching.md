@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/
+permalink: /
 title: "teaching"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
