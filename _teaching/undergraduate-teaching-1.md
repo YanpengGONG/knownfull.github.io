@@ -1,5 +1,5 @@
 ---
-title: "Introduction of Abaqus and Its Python Scripts"
+title: "Introduction of Abaqus and its Python scripts"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/undergraduate-teaching-1
