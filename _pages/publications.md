@@ -19,7 +19,7 @@ redirect_from:
 Science Press<br>
 May 2023, 241 Pages<br>
 ISBN 978-7-03-074292-6 <br>
-(in Chinese: 董春迎, 公颜鹏, 孙芳玲. 等几何边界元法. 科学出版社, 2023年5月.)
+(in Chinese: 董春迎, 公颜鹏, 孙芳玲. 等几何边界元法. 北京: 科学出版社, 2023年5月.)
 
 ## Journal Articles
 

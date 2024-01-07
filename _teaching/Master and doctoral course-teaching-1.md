@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "Application of Abaqus secondary development in engineering problems"
 collection: teaching
-type: "Workshop"
+type: "master and doctoral course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2015-01-01
