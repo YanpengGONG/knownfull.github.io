@@ -13,7 +13,8 @@ redirect_from:
 {% include base_path %}
 
 ## Book 
-董春迎, 公颜鹏, 孙芳玲. 等几何边界元法. 科学出版社, 2023年5月.
+
+* Chunying Dong, **Yanpeng Gong**, Fangling Sun. The isogeometric boundary element method. Science Press, 2023.05. (in Chinese)
 
 ## Journal Article
 
