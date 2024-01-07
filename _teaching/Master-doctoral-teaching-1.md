@@ -3,8 +3,8 @@ title: "Application of Abaqus secondary development in engineering problems"
 collection: teaching
 type: "Master and doctoral course"
 permalink: /teaching/Master-doctoral-teaching-1
-venue: "Beijing University of Technology1, Mechanics"
-date: 2022-03
+venue: "Beijing University of Technology, Mechanics"
+date: 2022-03-01
 location: "Beijing, China"
 ---
 
