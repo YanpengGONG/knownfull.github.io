@@ -14,7 +14,11 @@ redirect_from:
 
 ## Book 
 
-* Chunying Dong, **Yanpeng Gong**, Fangling Sun. The isogeometric boundary element method. Science Press, 2023.05. (in Chinese: 董春迎, 公颜鹏, 孙芳玲. 等几何边界元法. 科学出版社, 2023年5月.)
+* The isogeometric boundary element method. 
+(Dong C., **Y. Gong**, F. Sun.)
+Science Press, 
+May 2023. 241 pages
+(in Chinese: 董春迎, 公颜鹏, 孙芳玲. 等几何边界元法. 科学出版社, 2023年5月.)
 
 ## Journal Article
 
